@@ -1,0 +1,14 @@
+{
+  "name": "Room 3 (Stage 2)",
+  "description": "You are in the third room of the second stage. There is a chair.",
+  "activity": null,
+  "keyToEnter": {
+    "name": "keyC",
+    "energyConsumed": 0
+  },
+  "exits": {
+    "teleportation": "Room 3/4",
+    "south": "Room 2 (Stage 2)"
+  },
+  "roomItem": {}
+}

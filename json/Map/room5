@@ -1,0 +1,22 @@
+{
+  "name": "Room 3 (Stage 1)",
+  "description": "You are in the third room of the first stage. There is a window... closed.",
+  "activity": {
+    "award": {
+      "name": "keyTwo",
+      "energyConsumed": 0
+    },
+    "question": "Quelle est la somme en degre des angles d\u0027un triangle ?",
+    "answer": "180",
+    "energyToLose": 2,
+    "activityDone": false
+  },
+  "keyToEnter": {
+    "name": "keyOne",
+    "energyConsumed": 0
+  },
+  "exits": {
+    "east": "Corridor 3 (Stage 1)"
+  },
+  "roomItem": {}
+}

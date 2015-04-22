@@ -1,0 +1,13 @@
+{
+  "name": "Room 1 (Stage 1)",
+  "description": "You are in the first room of the first stage. There is a hand stuck to the ground.",
+  "activity": null,
+  "keyToEnter": null,
+  "exits": {
+    "south": "Corridor 3 (Stage 1)"
+  },
+  "roomItem": {
+    "Marauder": "Marauder",
+    "keyOne": "keyOne"
+  }
+}

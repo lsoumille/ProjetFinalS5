@@ -1,0 +1,21 @@
+{
+  "name": "Corridor 2 (Stage 2)",
+  "description": "You are in the second corridor of the second stage.",
+  "activity": {
+    "award": {
+      "name": "keyA",
+      "energyConsumed": 0
+    },
+    "question": "Combien y a-t-il de continents ?",
+    "answer": "5",
+    "energyToLose": 3,
+    "activityDone": false
+  },
+  "keyToEnter": null,
+  "exits": {
+    "south": "LunchRoom (Stage 2)",
+    "north": "Room 2 (Stage 2)",
+    "west": "Corridor 1 (Stage 2)"
+  },
+  "roomItem": {}
+}

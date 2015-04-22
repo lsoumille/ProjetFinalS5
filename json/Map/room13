@@ -1,0 +1,23 @@
+{
+  "name": "Room 2 (Stage 2)",
+  "description": "You are in the second room of the second stage. There is a bed but you can\u0027t use it.",
+  "activity": {
+    "award": {
+      "name": "Cloak",
+      "energyConsumed": 0
+    },
+    "question": "Quelle planete est connue pour ses anneaux ?",
+    "answer": "saturne",
+    "energyToLose": 4,
+    "activityDone": false
+  },
+  "keyToEnter": {
+    "name": "keyB",
+    "energyConsumed": 0
+  },
+  "exits": {
+    "south": "Corridor 2 (Stage 2)",
+    "north": "Room 3 (Stage 2)"
+  },
+  "roomItem": {}
+}

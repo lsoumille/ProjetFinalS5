@@ -1,0 +1,15 @@
+{
+  "name": "Stairs 2 (Stage 2)",
+  "description": "You are in the stairs of second stage. Well... nothing to say about this room.",
+  "activity": null,
+  "keyToEnter": {
+    "name": "keyStairs1",
+    "energyConsumed": 0
+  },
+  "exits": {
+    "north": "Corridor 1 (Stage 2)",
+    "down": "Stairs 1 (Stage 1)",
+    "up": "Stairs 3 (Stage 3)"
+  },
+  "roomItem": {}
+}

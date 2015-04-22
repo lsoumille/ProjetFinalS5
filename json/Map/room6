@@ -1,0 +1,23 @@
+{
+  "name": "Room 4 (Stage 1)",
+  "description": "You are in the fourth room of the first stage. There is a zombie dog.",
+  "activity": {
+    "award": {
+      "name": "keyStairs1",
+      "energyConsumed": 0
+    },
+    "question": "Quelle est le symbole chimique du fer ?",
+    "answer": "fe",
+    "energyToLose": 3,
+    "activityDone": false
+  },
+  "keyToEnter": {
+    "name": "keyTwo",
+    "energyConsumed": 0
+  },
+  "exits": {
+    "north": "Room 5 (Stage 1)",
+    "west": "Corridor 2 (Stage 1)"
+  },
+  "roomItem": {}
+}

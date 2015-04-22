@@ -1,0 +1,10 @@
+{
+  "name": "LunchRoom (Stage 2)",
+  "description": "You are in the lunchroom of the second stage. There is a coffee machine. Yes, Harry Peter usualy drinks coffee.",
+  "activity": null,
+  "keyToEnter": null,
+  "exits": {
+    "north": "Corridor 2 (Stage 2)"
+  },
+  "roomItem": {}
+}

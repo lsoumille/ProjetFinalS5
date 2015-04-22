@@ -1,0 +1,22 @@
+{
+  "name": "Room 1 (Stage 2)",
+  "description": "You are in the first room of the second stage. There are skulls everywhere. What happenned here ?!",
+  "activity": {
+    "award": {
+      "name": "keyB",
+      "energyConsumed": 0
+    },
+    "question": "Comment etait la table legendaire du roi Arthur ?",
+    "answer": "ronde",
+    "energyToLose": 4,
+    "activityDone": false
+  },
+  "keyToEnter": {
+    "name": "keyA",
+    "energyConsumed": 0
+  },
+  "exits": {
+    "south": "Corridor 1 (Stage 2)"
+  },
+  "roomItem": {}
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Room 2 (Stage 1)",
+  "description": "You are in the second room of the first stage. It smell good here.",
+  "activity": {
+    "award": {
+      "name": "keyStairs2",
+      "energyConsumed": 0
+    },
+    "question": "Quelle est la capitale de l\u0027Espagne ?",
+    "answer": "madrid",
+    "energyToLose": 3,
+    "activityDone": false
+  },
+  "keyToEnter": {
+    "name": "keyA",
+    "energyConsumed": 0
+  },
+  "exits": {
+    "east": "Corridor 2 (Stage 1)"
+  },
+  "roomItem": {}
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Room 5 (Stage 1)",
+  "description": "You are in the fifth room of the first stage. Charlie is here.",
+  "activity": null,
+  "keyToEnter": {
+    "name": "keyTwo",
+    "energyConsumed": 0
+  },
+  "exits": {
+    "south": "Room 4 (Stage 1)",
+    "west": "Corridor 3 (Stage 1)"
+  },
+  "roomItem": {}
+}

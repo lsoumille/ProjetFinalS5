@@ -1,0 +1,11 @@
+{
+  "name": "Stairs 1 (Stage 1)",
+  "description": "You are in the stairs of the first stage. There is dead cat. It stinks.",
+  "activity": null,
+  "keyToEnter": null,
+  "exits": {
+    "north": "Corridor 1 (Stage 1)",
+    "up": "Stairs 2 (Stage 2)"
+  },
+  "roomItem": {}
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Stairs 3 (Stage 3)",
+  "description": "You are in the stairs of third stage. Let\u0027s go !",
+  "activity": null,
+  "keyToEnter": {
+    "name": "keyStairs2",
+    "energyConsumed": 0
+  },
+  "exits": {
+    "north": "Room 1 (Stage 3)",
+    "down": "Stairs 2 (Stage 2)"
+  },
+  "roomItem": {}
+}

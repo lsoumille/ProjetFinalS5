@@ -1,0 +1,11 @@
+{
+  "name": "Corridor 1 (Stage 1)",
+  "description": "You are in the first corridor of the first stage. There are torches on walls.",
+  "activity": null,
+  "keyToEnter": null,
+  "exits": {
+    "south": "Stairs 1 (Stage 1)",
+    "north": "Corridor 2 (Stage 1)"
+  },
+  "roomItem": {}
+}

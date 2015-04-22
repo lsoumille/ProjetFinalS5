@@ -1,0 +1,13 @@
+{
+  "name": "Corridor 2 (Stage 1)",
+  "description": "You are in the second corridor of the first stage. There are some talking paintings.",
+  "activity": null,
+  "keyToEnter": null,
+  "exits": {
+    "south": "Corridor 1 (Stage 1)",
+    "east": "Room 4 (Stage 1)",
+    "north": "Corridor 3 (Stage 1)",
+    "west": "Room 2 (Stage 1)"
+  },
+  "roomItem": {}
+}
